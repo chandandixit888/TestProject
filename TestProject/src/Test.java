@@ -6,5 +6,6 @@ public class Test {
     System.out.println("Commit and Push");
     System.out.println("Any changes happens in programs(Commit and Push),Added Test class");
     System.out.println("Pull the data from GitHub Repository");
+  }
 
 }
